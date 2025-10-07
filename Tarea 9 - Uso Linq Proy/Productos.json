@@ -1,0 +1,93 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Mouse Logitech",
+    "CategoriaID": 2,
+    "PrecioStock": 25.99,
+    "Descripcion": "Mouse inalámbrico ergonómico"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Teclado Mecánico",
+    "CategoriaID": 2,
+    "PrecioStock": 89.00,
+    "Descripcion": "Teclado con switches Cherry MX"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Smartphone Samsung",
+    "CategoriaID": 3,
+    "PrecioStock": 699.99,
+    "Descripcion": "Teléfono con cámara de 108MP"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Monitor LG Ultrawide",
+    "CategoriaID": 1,
+    "PrecioStock": 329.50,
+    "Descripcion": "Monitor de 29 pulgadas ultrawide Full HD"
+  },
+  {
+    "Id": 5,
+    "Nombre": "Laptop HP Pavilion",
+    "CategoriaID": 1,
+    "PrecioStock": 899.99,
+    "Descripcion": "Laptop de 15.6 pulgadas con procesador i7"
+  },
+  {
+    "Id": 6,
+    "Nombre": "Audífonos Sony WH-1000XM4",
+    "CategoriaID": 2,
+    "PrecioStock": 299.00,
+    "Descripcion": "Audífonos con cancelación activa de ruido"
+  },
+  {
+    "Id": 7,
+    "Nombre": "Impresora Epson EcoTank",
+    "CategoriaID": 4,
+    "PrecioStock": 249.00,
+    "Descripcion": "Impresora multifunción con sistema de tinta continua"
+  },
+  {
+    "Id": 8,
+    "Nombre": "Tablet Apple iPad Air",
+    "CategoriaID": 3,
+    "PrecioStock": 599.99,
+    "Descripcion": "Tablet de 10.9 pulgadas con chip M1"
+  },
+  {
+    "Id": 9,
+    "Nombre": "Cámara Canon EOS Rebel T7",
+    "CategoriaID": 5,
+    "PrecioStock": 549.00,
+    "Descripcion": "Cámara réflex digital con lente 18–55 mm"
+  },
+  {
+    "Id": 10,
+    "Nombre": "Disco Duro Externo Seagate 2TB",
+    "CategoriaID": 2,
+    "PrecioStock": 89.90,
+    "Descripcion": "Disco duro portátil USB 3.0 de 2 TB"
+  },
+  {
+    "Id": 11,
+    "Nombre": "Router TP-Link Archer AX50",
+    "CategoriaID": 4,
+    "PrecioStock": 129.00,
+    "Descripcion": "Router Wi-Fi 6 de doble banda"
+  },
+  {
+    "Id": 12,
+    "Nombre": "Smartwatch Garmin Venu",
+    "CategoriaID": 3,
+    "PrecioStock": 349.99,
+    "Descripcion": "Reloj inteligente con GPS y pantalla AMOLED"
+  },
+  {
+    "Id": 13,
+    "Nombre": "Altavoz Bluetooth JBL Charge 5",
+    "CategoriaID": 2,
+    "PrecioStock": 159.00,
+    "Descripcion": "Bocina portátil resistente al agua"
+  }
+]
